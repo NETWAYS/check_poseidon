@@ -456,5 +456,5 @@ NETWAYS GmbH, 2010, http://www.netways.de.
 
 Written by Michael Streb <michael.streb@netways.de>, Bernd Löhlein <bernd.loehlein@netways.de>
 
-Please report bugs through the contact of monitoringexchange, http://www.monitoringexchange.org. 
+Please report bugs at https://www.netways.org/projects/plugins
 
