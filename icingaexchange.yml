@@ -1,9 +1,9 @@
-name: 
+name: check_poseidon
 description: "file:///README.md"
 url: "https://www.netways.org/projects/plugins"
 tags: ~
-vendor: Netways
-target: Temperature
+vendor: HWgroup,NETWAYS
+target: Temperature,Sensor
 type: Plugin
 license: gplv2
 releases: 
@@ -15,5 +15,5 @@ releases:
         name: check_poseidon.pl
         url: "file:///check_poseidon.pl"
         description: none
-        checksum: 
+        checksum: 798c19cd7507663b57f80a92c0897a6e
 
