@@ -3,14 +3,15 @@ check_poseidon
 
 Checks the HW group Poseidon devices.
 
-http://shop.netways.de/ueberwachung/hersteller/hw-group.html
+## Required Perl Libraries
 
-### Usage
+* Net::SNMP
+
+## Usage
 
     check_poseidon.pl -h
 
-    check_poseidon.pl -H <host> ( -S <sensor id> | -I <input id> | -O
-    <output id> )
+    check_poseidon.pl -H <host> ( -S <sensor id> | -I <input id> | -O <output id> )
 
 Options:
 
@@ -21,4 +22,3 @@ Options:
     -I      The dry contact to check
     -O      The relay output to check
     --man   Displays the complete perldoc manpage.
-
