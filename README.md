@@ -1,3 +1,5 @@
+This check is deprecated, see: https://github.com/NETWAYS/check_hwgroup
+
 check_poseidon
 ==============
 
